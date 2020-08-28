@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Revisão
+namespace Revisão._1._Lógica
 {
-    class Exercicio1
+    public class Exercicio1
     {
         //Enunciado do Exercício: 
         //Faça um sketch que calcule a média aritmética entre quatro
@@ -21,9 +21,9 @@ namespace Revisão
             decimal c = Convert.ToDecimal(Console.ReadLine());
             decimal d = Convert.ToDecimal(Console.ReadLine());
 
-            decimal resultado = ((a+b+c+d)/4);
+            decimal resultado = ((a + b + c + d) / 4);
 
-            if (resultado>=7)
+            if (resultado >= 7)
             {
                 Console.WriteLine($"O aluno está aprovado com média: {resultado}");
             }
@@ -34,5 +34,5 @@ namespace Revisão
             return resultado;
         }
     }
-}
 
+}

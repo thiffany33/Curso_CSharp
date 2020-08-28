@@ -1,14 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Revisão
+namespace Revisão._1._Lógica
 {
     public class Exercicio5
-    { 
+    {
         public static void Executar()
         {
             int[] vet = new int[8];

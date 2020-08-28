@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Revisão._1._Lógica;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Principal;
@@ -11,7 +12,7 @@ namespace Revisão
     {
         static void Main(string[] args)
         {
-            Exercicio3.Executar();
+            Exercicio6.Vetor();
             Console.ReadKey();
         }
     }
