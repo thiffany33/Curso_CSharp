@@ -5,6 +5,7 @@ using System.Linq;
 using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
+using Revisão._2._Lógica___String;
 
 namespace Revisão
 {
@@ -12,7 +13,7 @@ namespace Revisão
     {
         static void Main(string[] args)
         {
-            Exercicio6.Vetor();
+            Exercicio7.Executar();
             Console.ReadKey();
         }
     }

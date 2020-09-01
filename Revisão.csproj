@@ -43,12 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1. Lógica\Exercicio1.cs" />
-    <Compile Include="1. Lógica\Exercicio2.cs" />
-    <Compile Include="1. Lógica\Exercicio3.cs" />
-    <Compile Include="1. Lógica\Exercicio4.cs" />
-    <Compile Include="1. Lógica\Exercicio5.cs" />
-    <Compile Include="1. Lógica\Exercicio6.cs" />
+    <Compile Include="1. Lógica - Básica\Exercicio1.cs" />
+    <Compile Include="1. Lógica - Básica\Exercicio2.cs" />
+    <Compile Include="1. Lógica - Básica\Exercicio3.cs" />
+    <Compile Include="1. Lógica - Básica\Exercicio4.cs" />
+    <Compile Include="1. Lógica - Básica\Exercicio5.cs" />
+    <Compile Include="1. Lógica - Básica\Exercicio6.cs" />
+    <Compile Include="2. Lógica - String\Exercicio7.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -57,7 +58,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="2. Básico\" />
+    <Folder Include="3. Básico\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
