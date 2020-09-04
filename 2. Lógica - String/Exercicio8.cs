@@ -14,8 +14,13 @@ namespace Revisão._2._Lógica___String
             Console.WriteLine("Digite uma frase qualquer: ");
             string frase = Console.ReadLine();
 
-            frase.LastIndexOf('.');
-
+            for (int i = 0; i < frase.Length; i++)
+            {
+                if (frase[i] == '.')
+                {
+                    frase.LastIndexOf('.');
+                }
+            }
             Console.WriteLine(frase);
         }
     }

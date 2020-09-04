@@ -51,6 +51,7 @@
     <Compile Include="1. Lógica - Básica\Exercicio6.cs" />
     <Compile Include="2. Lógica - String\Exercicio7.cs" />
     <Compile Include="2. Lógica - String\Exercicio8.cs" />
+    <Compile Include="2. Lógica - String\Exercicio9.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
