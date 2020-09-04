@@ -13,7 +13,7 @@ namespace Revisão
     {
         static void Main(string[] args)
         {
-            Exercicio12.Executar();
+            Exercicio13.Executar();
             Console.ReadKey();
         }
     }

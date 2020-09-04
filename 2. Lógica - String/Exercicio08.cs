@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Revisão._2._Lógica___String
 {
-    public class Exercicio8
+    public class Exercicio08
     {
         //Crie um programa console que verifique se uma frase termina com um ponto final, caso ela tenha remova esse ponto.
         public static void Executar()

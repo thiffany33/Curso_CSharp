@@ -27,9 +27,8 @@ namespace Revisão._1._Lógica
         {
             Console.WriteLine("Digite o número para verificar se está no vetor: ");
             int x = Convert.ToInt32(Console.ReadLine());
-
-            int i = 0;
-            for (i = 0; i < 8; i++)
+            
+            for (int i = 0; i < 8; i++)
             {
                 if (x == vet[i])
                 {

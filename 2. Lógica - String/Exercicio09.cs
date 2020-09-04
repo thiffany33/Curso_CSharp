@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Revisão._2._Lógica___String
 {
-    public class Exercicio9
+    public class Exercicio09
     {
         //Crie um programa console que solicite um documento com apenas números.
         //a) Se o documento tiver 11 caracteres formate com uma máscara de CPF(000.000.000-00). 

@@ -10,7 +10,7 @@ namespace Revisão._1._Lógica
     {
         public static void Executar()
         {
-            arranjo();
+            Arranjo();
         }
         //Faça um sketch que imprima no Monitor Serial
         //1.Os números pares compreendidos entre 1 e 100.
@@ -24,8 +24,8 @@ namespace Revisão._1._Lógica
         public static void Pares()
         {
             Console.WriteLine("Os números pares entre 2 e 100 são: ");
-            int i = 0;
-            for (i = 2; i <= 100; i++)
+            
+            for (int i = 2; i <= 100; i++)
             {
                 if (i % 2 == 0)
                 {
@@ -36,8 +36,8 @@ namespace Revisão._1._Lógica
         public static void Impares()
         {
             Console.WriteLine("Os números impares de 0 até 150 são: ");
-            int i = 0;
-            for (i = 0; i <= 150; i++)
+            
+            for (int i = 0; i <= 150; i++)
             {
                 if (i % 2 == 1)
                 {
@@ -45,7 +45,7 @@ namespace Revisão._1._Lógica
                 }
             }
         }
-        public static void fatorial()
+        public static void Fatorial()
         {
             Console.WriteLine("Escolha um número entra 0 e 10: ");
             int num = Convert.ToInt32(Console.ReadLine());
@@ -58,7 +58,7 @@ namespace Revisão._1._Lógica
             }
             Console.WriteLine($"O fatorial do número escolhido é: {fat}");
         }
-        public static void arranjo()
+        public static void Arranjo()
         {
             double i, j, resultado;
             double fatN = 1;

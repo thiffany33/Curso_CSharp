@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Revisão._2._Lógica___String
 {
-    public class Exercicio7
+    public class Exercicio07
     {
         public static void Executar()
         {
