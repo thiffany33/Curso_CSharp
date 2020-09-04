@@ -49,6 +49,9 @@
     <Compile Include="1. Lógica - Básica\Exercicio4.cs" />
     <Compile Include="1. Lógica - Básica\Exercicio5.cs" />
     <Compile Include="1. Lógica - Básica\Exercicio6.cs" />
+    <Compile Include="2. Lógica - String\Exercicio10.cs" />
+    <Compile Include="2. Lógica - String\Exercicio11.cs" />
+    <Compile Include="2. Lógica - String\Exercicio12.cs" />
     <Compile Include="2. Lógica - String\Exercicio7.cs" />
     <Compile Include="2. Lógica - String\Exercicio8.cs" />
     <Compile Include="2. Lógica - String\Exercicio9.cs" />

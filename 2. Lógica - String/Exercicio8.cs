@@ -14,13 +14,10 @@ namespace Revisão._2._Lógica___String
             Console.WriteLine("Digite uma frase qualquer: ");
             string frase = Console.ReadLine();
 
-            for (int i = 0; i < frase.Length; i++)
-            {
-                if (frase[i] == '.')
-                {
-                    frase.LastIndexOf('.');
-                }
-            }
+            //frase = frase.Replace(".", "");
+
+            frase = frase.TrimEnd('.');
+
             Console.WriteLine(frase);
         }
     }
