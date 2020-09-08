@@ -6,6 +6,7 @@ using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 using Revisão._2._Lógica___String;
+using Revisão._3._Básico.Dia_1;
 
 namespace Revisão
 {
@@ -13,7 +14,8 @@ namespace Revisão
     {
         static void Main(string[] args)
         {
-            Exercicio18.Executar();
+
+            Exercicio19.Executar();
             Console.ReadKey();
         }
     }
