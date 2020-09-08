@@ -14,7 +14,7 @@ namespace Revisão._2._Lógica___String
             Console.WriteLine("Digite uma palavra: ");
             string palavra = Console.ReadLine();
 
-            int i = 0;
+            int i;
 
             for (i = 0; i > palavra.Length; i++)
             {
