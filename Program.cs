@@ -12,10 +12,15 @@ namespace Revisão
 {
     class Program
     {
+        //Exercício 14 com problemas
         static void Main(string[] args)
         {
 
-            Exercicio19.Executar();
+            int e = 5, f = 10;
+            if (e < f || f < 0)
+                Console.Write("Vermelho");
+            else
+                Console.Write("Laranja");
             Console.ReadKey();
         }
     }

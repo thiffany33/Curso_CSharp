@@ -46,7 +46,32 @@ namespace Revisão._3._Básico.Dia_1
         //h) -2 != 2
         public static void Expressao()
         {
+            bool a;
+            bool b;
+            bool c;
+            bool d;
+            bool e;
+            bool f;
+            bool g;
+            bool h;
 
+            a = 5 > 2;
+            b = 6 <= 18;
+            c = 49 >= 49;
+            d = 2 == 3;
+            e = 3 + 7 <= 10;
+            f = 3 != 9;
+            g = 12 != 12;
+            h = -2 != 2;
+
+            Console.WriteLine($"A expressão:   5 > 2         é: {a}");
+            Console.WriteLine($"A expressão:   6 <= 18       é: {b}");
+            Console.WriteLine($"A expressão:   49 >= 49      é: {c}");
+            Console.WriteLine($"A expressão:   2 == 3        é: {d}");
+            Console.WriteLine($"A expressão:   3 + 7 <= 10   é: {e}");
+            Console.WriteLine($"A expressão:   3 != 9        é: {f}");
+            Console.WriteLine($"A expressão:   12 != 12      é: {g}");
+            Console.WriteLine($"A expressão:   -2 != 20      é: {h}");
         }
     }
 }

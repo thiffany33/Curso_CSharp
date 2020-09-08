@@ -9,10 +9,8 @@ namespace Revisão._1._Lógica
     public class Exercicio1
     {
         //Enunciado do Exercício: 
-        //Faça um sketch que calcule a média aritmética entre quatro
-        //notas(a serem inseridas via Serial) de um aluno e mostre sua
-        //situação, que pode ser aprovado, reprovado ou exame
-        //(aprovado >= 7, reprovado< 5)
+        //Faça um programa console que calcule a média aritmética entre quatro notas(a serem inseridas via Serial) de um aluno e mostre sua situação,
+        //que pode ser aprovado, reprovado ou exame. Considere aprovado >= 7, reprovado< 5
         public static decimal Executar()
         {
             Console.WriteLine("Digite as quatro notas do aluno: ");
