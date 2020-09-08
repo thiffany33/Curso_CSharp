@@ -59,6 +59,9 @@
     <Compile Include="2. Lógica - String\Exercicio14.cs" />
     <Compile Include="2. Lógica - String\Exercicio15.cs" />
     <Compile Include="2. Lógica - String\Exercicio16.cs" />
+    <Compile Include="2. Lógica - String\Exercicio17.cs" />
+    <Compile Include="2. Lógica - String\Exercicio18.cs" />
+    <Compile Include="3. Básico\Dia 1\Exercicio19.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,8 +69,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="3. Básico\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
