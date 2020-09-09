@@ -18,7 +18,7 @@ namespace Revisão
         static void Main(string[] args)
         {
 
-            Exercicio26.Executar();
+            Exercicio28.Executar();
             Console.ReadKey();
         }
     }

@@ -69,6 +69,8 @@
     <Compile Include="3. Básico\Dia 2\Exercicio24.cs" />
     <Compile Include="3. Básico\Dia 3\Exercicio25.cs" />
     <Compile Include="3. Básico\Dia 3\Exercicio26.cs" />
+    <Compile Include="3. Básico\Dia 3\Exercicio27.cs" />
+    <Compile Include="3. Básico\Dia 3\Exercicio28.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

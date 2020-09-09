@@ -49,7 +49,5 @@ namespace Revisão._3._Básico.Dia_3
 
             Console.WriteLine($"A comissão é de: {valor}");
         }
-
-
     }
 }
