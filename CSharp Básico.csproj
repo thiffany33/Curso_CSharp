@@ -63,6 +63,12 @@
     <Compile Include="2. Lógica - String\Exercicio18.cs" />
     <Compile Include="3. Básico\Dia 1\Exercicio19.cs" />
     <Compile Include="3. Básico\Dia 1\Exercicio20.cs" />
+    <Compile Include="3. Básico\Dia 2\Exercicio21.cs" />
+    <Compile Include="3. Básico\Dia 2\Exercicio22.cs" />
+    <Compile Include="3. Básico\Dia 2\Exercicio23.cs" />
+    <Compile Include="3. Básico\Dia 2\Exercicio24.cs" />
+    <Compile Include="3. Básico\Dia 3\Exercicio25.cs" />
+    <Compile Include="3. Básico\Dia 3\Exercicio26.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

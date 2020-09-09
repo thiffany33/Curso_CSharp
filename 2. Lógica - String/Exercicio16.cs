@@ -42,7 +42,7 @@ namespace Revisão._2._Lógica___String
                     sumCaractere++;
                 }
             }
-            Console.WriteLine(sumLetras + " " + sumNumero + " " + sumCaractere);
+            Console.WriteLine($"A quantidade de letras é: {sumLetras}, a quantidade de números é: {sumNumero} e a quantidade de caracteres, incluindo espaço é: {sumCaractere}");
         }
     }
 }

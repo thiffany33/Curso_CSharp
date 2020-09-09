@@ -7,6 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Revisão._2._Lógica___String;
 using Revisão._3._Básico.Dia_1;
+using Revisão._3._Básico.Dia_2;
+using Revisão._3._Básico.Dia_3;
 
 namespace Revisão
 {
@@ -16,11 +18,7 @@ namespace Revisão
         static void Main(string[] args)
         {
 
-            int e = 5, f = 10;
-            if (e < f || f < 0)
-                Console.Write("Vermelho");
-            else
-                Console.Write("Laranja");
+            Exercicio26.Executar();
             Console.ReadKey();
         }
     }
