@@ -10,17 +10,13 @@ using Revisão._3._Básico.Dia_1;
 using Revisão._3._Básico.Dia_2;
 using Revisão._3._Básico.Dia_3;
 using Revisão._3._Básico.Dia_4;
-using Revisão._3._Básico.Construtor;
 
 namespace Revisão
 {
     class Program
     {
-        //Exercício 14 com problemas
         static void Main(string[] args)
         {
-
-            TestaPizza.Executar();
             Console.ReadKey();
         }
     }

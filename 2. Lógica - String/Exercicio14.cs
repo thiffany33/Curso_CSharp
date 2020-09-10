@@ -14,7 +14,9 @@ namespace Revisão._2._Lógica___String
             Console.WriteLine("Digite uma palavra: ");
             string palavra = Console.ReadLine();
 
-            Console.WriteLine(palavra);
+            var revertido = new string (palavra.Reverse().ToArray());
+
+            Console.WriteLine($"Essa palavra em ordem inversa fica: {revertido}");
 
 
         }
