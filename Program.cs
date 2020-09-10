@@ -9,6 +9,8 @@ using Revisão._2._Lógica___String;
 using Revisão._3._Básico.Dia_1;
 using Revisão._3._Básico.Dia_2;
 using Revisão._3._Básico.Dia_3;
+using Revisão._3._Básico.Dia_4;
+using Revisão._3._Básico.Construtor;
 
 namespace Revisão
 {
@@ -18,10 +20,8 @@ namespace Revisão
         static void Main(string[] args)
         {
 
-            Exercicio29.Executar();
+            TestaPizza.Executar();
             Console.ReadKey();
         }
     }
 }
-
-
